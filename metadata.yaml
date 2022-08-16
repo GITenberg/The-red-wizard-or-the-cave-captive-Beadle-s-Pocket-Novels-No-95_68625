@@ -1,0 +1,25 @@
+_repo: The-red-wizard-or-the-cave-captive-Beadle-s-Pocket-Novels-No-95_68625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hunter, Ned
+    gutenberg_agent_id: '54869'
+    url: http://www.gutenberg.org/2009/agents/54869
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68625'
+language: en
+pgterms:marc905: 20200424120133various
+pgterms:marc906: '1872'
+pgterms:marc907: US
+production_note: David Edwards, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Northern Illinois University Digital Library)
+publication_note: United States :Beadle and Adams,1872,copyright 1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The red wizard, or, the cave captive: Beadle''s Pocket Novels No. 95'
+url: http://www.gutenberg.org/ebooks/68625
